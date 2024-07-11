@@ -6,7 +6,7 @@ import os
 # Path to the Adobe Premiere Pro executable on Windows
 premiere_pro_path = 'C:\\Program Files\\Adobe\\Adobe Premiere Pro 2022\\Adobe Premiere Pro.exe'
 
-# Path to the Premiere Pro project file 
+# Path to the Premiere Pro project file
 project_path = 'path/to/your/project.prproj'
 
 # Path to the ExtendScript file
